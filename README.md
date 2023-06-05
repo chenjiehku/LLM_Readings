@@ -1,4 +1,4 @@
-# LLM_Readings
+# Reading materials for Large Language Model (LLM)
 This repo is created to manage the reading materials about LLM.
 
 ## Model Architecture
