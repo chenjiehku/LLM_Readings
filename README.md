@@ -28,6 +28,8 @@ This repo is created to manage the reading materials about LLM.
 7. [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
 8. [Stanford Alpaca: An Instruction-following LLaMA Model](https://github.com/tatsu-lab/stanford_alpaca)
 9. [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+10. [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+11. [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf) 
 
 ## Training Dataset
 1. [LLMDataHub: Awesome Datasets for LLM Training](https://github.com/Zjh-819/LLMDataHub)
