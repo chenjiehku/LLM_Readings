@@ -20,7 +20,7 @@ This repo is created to manage the reading materials about LLM.
 
 ## Training Recipe
 1. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
-2. [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf)
+2. [Training language models to follow instructions with human feedback (InstructGPT)](https://arxiv.org/pdf/2203.02155.pdf)
 3. [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862.pdf)
 4. [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073.pdf)
 5. [Pythia-A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/pdf/2304.01373.pdf)
