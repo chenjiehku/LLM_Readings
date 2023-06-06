@@ -55,3 +55,4 @@ This repo is created to manage the reading materials about LLM.
 ## LLM Evaluation
 1. [Holistic Evaluation of Language Models](https://arxiv.org/pdf/2211.09110.pdf)
 2. [HumanEval: Hand-Written Evaluation Set](https://github.com/openai/human-eval/tree/master)
+3. [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs](https://arxiv.org/pdf/2305.03111.pdf)
