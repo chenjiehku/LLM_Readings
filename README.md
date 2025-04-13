@@ -82,3 +82,18 @@ This repo is created to manage the reading materials about LLM.
 11. 2024.12.19: [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)
 12. 2025.02.19: [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)
 13. 2025.03.26: [Qwen2.5-Omni Technical Report](https://arxiv.org/abs/2503.20215)
+
+## Open Source R1 SFT Dataset
+1. [open-r1/OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
+2. [open-r1/codeforces-cots](https://huggingface.co/datasets/open-r1/codeforces-cots)
+3. [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k)
+4. [open-thoughts/OpenThoughts2-1M](https://huggingface.co/datasets/open-thoughts/OpenThoughts2-1M)
+5. [Congliu/Chinese-DeepSeek-R1-Distill-data-110k](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
+6. [a-m-team/AM-DeepSeek-R1-Distilled-1.4M](https://huggingface.co/datasets/a-m-team/AM-DeepSeek-R1-Distilled-1.4M)
+7. [qihoo360/Light-R1-SFTData](https://huggingface.co/datasets/qihoo360/Light-R1-SFTData)
+8. [simplescaling/s1K-1.1](https://huggingface.co/datasets/simplescaling/s1K-1.1)
+9. [nvidia/OpenCodeReasoning](https://huggingface.co/datasets/nvidia/OpenCodeReasoning)
+
+## Open Source R1 RL Dataset
+1. [open-r1/codeforces](https://huggingface.co/datasets/open-r1/codeforces)
+2. [open-r1/DAPO-Math-17k-Processed](https://huggingface.co/datasets/open-r1/DAPO-Math-17k-Processed)
