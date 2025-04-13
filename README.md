@@ -37,9 +37,8 @@ This repo is created to manage the reading materials about LLM.
 ## Training Framework
 1. [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
 2. [DeepSpeed](https://github.com/microsoft/DeepSpeed)
-3. [GPT-NeoX](https://github.com/EleutherAI/gpt-neox)
-4. [TRL-Transformer Reinforcement Learning](https://github.com/lvwerra/trl)
-5. [TRLX-Transformer Reinforcement Learning X](https://github.com/CarperAI/trlx/tree/main)
+3. [VeOmni](https://github.com/ByteDance-Seed/VeOmni)
+4. [verl](https://github.com/volcengine/verl)
 
 ## LLM for Coding
 1. [Evaluating Large Language Models Trained on Code (Codex)](https://arxiv.org/pdf/2107.03374.pdf)
@@ -58,12 +57,16 @@ This repo is created to manage the reading materials about LLM.
 3. [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs](https://arxiv.org/pdf/2305.03111.pdf)
 
 ## DeepSeek Series
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
+1. [DeepSeek Github](https://github.com/deepseek-ai)
+2. 2024.01.05: [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
+3. 2024.01.25: [DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
+4. 2024.02.05: [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+5. 2024.03.08: [DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)
+6. 2024.05.07: [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+7. 2024.06.17: [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/abs/2406.11931)
+8. 2024.12.13: [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302)
+9. 2024.12.27: [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+10. 2025.01.22: [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
 ## Qwen Series
 1. [Qwen Team Blog](https://qwenlm.github.io/blog/)
