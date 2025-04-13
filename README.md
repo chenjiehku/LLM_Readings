@@ -56,3 +56,26 @@ This repo is created to manage the reading materials about LLM.
 1. [Holistic Evaluation of Language Models](https://arxiv.org/pdf/2211.09110.pdf)
 2. [HumanEval: Hand-Written Evaluation Set](https://github.com/openai/human-eval/tree/master)
 3. [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs](https://arxiv.org/pdf/2305.03111.pdf)
+
+## DeepSeek Series
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+
+## Qwen Series
+1. [Qwen Team Blog](https://qwenlm.github.io/blog/)
+2. [Qwen Team Github](https://github.com/QwenLM)
+3. 2023.08.24: [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966)
+4. 2023.09.28: [Qwen Technical Report](https://arxiv.org/abs/2309.16609)
+5. 2023.11.14: [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919)
+6. 2024.07.15: [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671)
+7. 2024.07.15: [Qwen2-Audio Technical Report](https://arxiv.org/abs/2407.10759)
+8. 2024.09.18: [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)
+9. 2024.09.18: [Qwen2.5-Coder Technical Report](https://arxiv.org/abs/2409.12186)
+10. 2024.09.18: [Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement](https://arxiv.org/abs/2409.12122)
+11. 2024.12.19: [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115)
+12. 2025.02.19: [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)
+13. 2025.03.26: [Qwen2.5-Omni Technical Report](https://arxiv.org/abs/2503.20215)
