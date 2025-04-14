@@ -97,3 +97,14 @@ This repo is created to manage the reading materials about LLM.
 ## Open Source R1 RL Dataset
 1. [open-r1/codeforces](https://huggingface.co/datasets/open-r1/codeforces)
 2. [open-r1/DAPO-Math-17k-Processed](https://huggingface.co/datasets/open-r1/DAPO-Math-17k-Processed)
+3. [Open-Reasoner-Zero/orz_math_72k_collection_extended](https://huggingface.co/datasets/Open-Reasoner-Zero/orz_math_72k_collection_extended)
+
+## Open Source R1 Reproduction
+1. [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+2. [Light-R1](https://github.com/Qihoo360/Light-R1)
+3. [EasyR1](https://github.com/hiyouga/EasyR1)
+4. [open-r1](https://github.com/huggingface/open-r1)
+5. [open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+6. [R1-V](https://github.com/Deep-Agent/R1-V)
+7. [Search-R1](https://github.com/PeterGriffinJin/Search-R1)
+8. [RAGEN](https://github.com/RAGEN-AI/RAGEN)
